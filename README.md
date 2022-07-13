@@ -6,18 +6,18 @@
 
 <!--  -->   
 
+ 
+    def praveen( ):          
 
-def praveen( ):          
-
-    skills_with_proficiency={'Python': 'Intermediate', 'SQL': 'Intermediate', 'HTML & CSS': 'Begginer}           
+      skills_with_proficiency={'Python': 'Intermediate', 'SQL': 'Intermediate', 'HTML & CSS': 'Begginer}           
    
-    tools=['numpy', 'pandas', 'scikit-learn' ,'matplotlib' , 'seaborn' ,'nltk', 'keras' ,'flask' ,'tableau' ,'tensorflow']              
+      tools=['numpy', 'pandas', 'scikit-learn' ,'matplotlib' , 'seaborn' ,'nltk', 'keras' ,'flask' ,'tableau' ,'tensorflow']              
    
-    cloud_architecture=['heroku']          
+      cloud_architecture=['heroku']          
    
-    hackathon=2             
+      hackathon=2             
    
-    return ∞    
+      return ∞    
 
 ### Connect me on:      
  * LinkedIn: 
