@@ -6,7 +6,7 @@
 
 def praveen():          
 
-   skills_with_proficiency={'Python':'Intermediate' , 'SQL':'Intermediate' ,'DAS' :'Intermediate' , 'HTML & CSS' :'Begginer}           
+   skills_with_proficiency={'Python': 'Intermediate', 'SQL': 'Intermediate', 'HTML & CSS': 'Begginer}           
    
    tools=['numpy', 'pandas', 'scikit-learn' ,'matplotlib' , 'seaborn' ,'nltk', 'keras' ,'flask' ,'tableau' ,'tensorflow']              
    
