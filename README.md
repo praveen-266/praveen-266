@@ -1,13 +1,8 @@
 ### Hi there , I'm Praveen!
 
-<!--
-**praveen-266/praveen-266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currenly pursuing my **Bachelors of computer Science** from **Anurag college of Engineering**
-- 🌱 I’m currently learning from Kaggle
-- 👯 I’m looking to collaborate in **Machine Learning** and **Data Science** domains
+*  🔭 I’m currenly pursuing my **Bachelors of computer Science** from **Anurag college of Engineering**
+*  🌱 I’m currently learning from Kaggle
+* 🤝🏻I’m looking to collaborate in **Machine Learning** and **Data Science** domains
 
 def praveen():
    skills_with_proficiency={'Python':'Intermediate' , 'SQL':'Intermediate' ,'DAS' :'Intermediate' , 'HTML & CSS' :'Begginer}
@@ -15,7 +10,6 @@ def praveen():
    cloud_architecture=['heroku']
    hackathon=2
    return ∞
--->
 
 ### Connect me on:      
  * LinkedIn: 
