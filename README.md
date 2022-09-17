@@ -1,7 +1,7 @@
 ### Hi there , I'm Praveen!
 
 *  🔭 I’m currenly pursuing my **Bachelors of computer Science** from **Anurag college of Engineering**
-*  🌱 I’m currently learning from Kaggle
+*  🌱 I’m currently learning from Kaggle, google
 * 🤝🏻I’m looking to collaborate in **Machine Learning** and **Data Science** domains        
 
 <!--  -->   
