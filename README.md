@@ -15,12 +15,12 @@
    
        cloud_architecture=['heroku']          
    
-       hackathon=2             
+       hackathon= 4            
    
        return  ∞    
 
 ### Connect me on:      
  * LinkedIn: 
- https://www.linkedin.com/in/praveen-katravath-8385231a6/
+        https://www.linkedin.com/in/praveen-k-8385231a6/
  *  Kaggle:   
- https://www.kaggle.com/praveensaik
+        https://www.kaggle.com/praveensaik
