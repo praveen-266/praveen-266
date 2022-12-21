@@ -22,5 +22,5 @@
 ### Connect me on:      
  * LinkedIn: 
         https://www.linkedin.com/in/praveen-k-8385231a6/
- *  Kaggle:     
-            https://www.kaggle.com/praveensaik
+ *  Kaggle: 
+        https://www.kaggle.com/praveensaik
