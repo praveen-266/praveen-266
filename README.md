@@ -6,8 +6,3 @@
 *  🌱 I’m interested in Machine Learning, Deep Learning, NLP, Python, Web Scraping
 * 🤝 🏻I’m looking to collaborate in **Machine Learning** and **Data Science** domains        
 
- 
-
-### Connect me on:      
- *  [Kaggle](https://www.kaggle.com/praveensaik)
-
