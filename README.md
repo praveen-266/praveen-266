@@ -10,4 +10,5 @@
 
 ### Connect me on:      
  *  Kaggle: 
-       [Kaggle] ('https://www.kaggle.com/praveensaik')
+       [Kaggle](https://www.kaggle.com/praveensaik)
+
