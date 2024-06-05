@@ -4,5 +4,5 @@
 *  🔭 👋 Hello, fellow coders and data enthusiasts! I'm Praveen, a results-driven Junior Data Scientist passionate about unraveling insights from data through machine learning and analysis. I thrive on translating complex data into actionable insights that drive meaningful outcomes.
   
 *  🌱 I’m interested in Machine Learning, Deep Learning, NLP, Python, Web Scraping
-* 🤝 🏻I’m looking to collaborate in **Machine Learning** and **Data Science** domains        
+* 🤝 🏻I’m looking to collaborate in **Machine Learning**, **Data Science**, **NLP** domains        
 
