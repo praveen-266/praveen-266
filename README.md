@@ -1,4 +1,4 @@
-### Hey there, I’m **Praveen K.** – Data Analyst • Python Aficionado • KPI Whisperer  
+### Hey there, I’m **Praveen K.** –- Data Analyst • Python Aficionado • KPI Whisperer  
 
 🎯 **Mission:** turn raw, noisy data into stories executives can act on **today**.  
 💡 **Superpower:** automating the boring stuff—so organisations spend 80 % less time gathering data and 100 % more time using it.
@@ -22,7 +22,7 @@
 ---
 
 #### 🛠 Tech Toolbox
-`Python` · `Pandas` · `SQL` · `Azure Data Studio` · `Power BI` · `Superset` · `Scikit‑learn` · `NLTK` · `Selenium` · `Git/GitHub Actions`
+`Python` · `Pandas` · `SQL` · `Power BI` · `Selenium` ·  `Scikit‑learn` · `NLTK` ·  `Azure Data Studio` · `Apache Superset`
 
 ---
 
