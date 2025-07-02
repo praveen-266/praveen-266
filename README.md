@@ -26,11 +26,6 @@
 
 ---
 
-#### 🌱 Currently
-Building end‑to‑end data products that start with a webhook and end with an interactive dashboard – and blogging the journey here on GitHub.
-
----
-
 #### 🤝 Let’s Talk Data
 - **Email:** praveensai266@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/praveenk16022000/](https://www.linkedin.com/in/praveenk16022000/)  
