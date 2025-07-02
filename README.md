@@ -33,6 +33,6 @@ Building end‑to‑end data products that start with a webhook and end with an 
 
 #### 🤝 Let’s Talk Data
 - **Email:** praveensai266@gmail.com  
-- **LinkedIn:** [linkedin.com/in/praveen-k-8385231a6](https://www.linkedin.com/in/praveen-k-8385231a6/)  
+- **LinkedIn:** [www.linkedin.com/in/praveenk16022000](www.linkedin.com/in/praveenk16022000)  
 
 _I love collaborating on ML‑driven analytics, growth experiments, and anything that makes decisions faster. If that sounds like you, drop a line – coffee’s on me (virtually or IRL)!_ ☕
