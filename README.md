@@ -22,7 +22,7 @@
 ---
 
 #### 🛠 Tech Toolbox
-`Python` · `Pandas` · `SQL` · `Power BI` · `Selenium` ·  `Scikit‑learn` · `NLTK` ·  `Azure Data Studio` · `Apache Superset`
+`Python` · `SQL` · `Power BI` · `Selenium` · `REST API Integrations` · `Scikit‑learn` · `NLTK` ·  `Azure Data Studio`
 
 ---
 
