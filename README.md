@@ -98,7 +98,7 @@ My work ranges from building scalable SQL data models and automated reporting sy
 
 ## 🤝 Let's Connect
 
-📧 **Email:** [praveensai26@gmail.com](mailto:praveensai26@gmail.com)
+📧 **Email:** [praveensai266@gmail.com](mailto:praveensai266@gmail.com)
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/praveen-k-8385231a6/](https://www.linkedin.com/in/praveen-k-8385231a6/)
 
